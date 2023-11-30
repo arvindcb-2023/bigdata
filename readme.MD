@@ -19,3 +19,11 @@ Technologies used:
 2. Pyspark - for performing the analysis
 3. MongoDB - for storing and fetching the video data/category data
 
+------------------------------------------------------------------------------------------------------------------------------------
+
+Requirements:
+1. Hadoop - Install the latest version of Hadoop for clustering and creating master node and worker node
+2. Java 8 - Since Hadoop uses Java, install Java 8
+3. MongoDB - To set the database, install the latest version
+4. Pyspark - Install this to perform analysis using Python.
+
