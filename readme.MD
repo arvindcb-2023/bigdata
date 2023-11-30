@@ -27,3 +27,7 @@ Requirements:
 3. MongoDB - To set the database, install the latest version
 4. Pyspark - Install this to perform analysis using Python.
 
+------------------------------------------------------------------------------------------------------------------------------------
+
+Make sure to add the given json files in MongoDB with the collection name "bigdata" to give the desired results
+
